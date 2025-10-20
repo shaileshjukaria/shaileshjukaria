@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hey, I am Shailesh Jukaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student🎓;Web+Developer🌐;Always%20Eager%20to%20Learn+and+Build🚀&center=true&width=600&height=80" alt="Typing SVG">
+  </a>
+</p>
+<hr/>
 
-<!--
-**shaileshjukaria/shaileshjukaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+✨ Passionate about learning and building new technologies<br>
+🌱 B.Tech Engineering Student<br>
+👯 Looking forward to collaborate on projects<br>
+🌐 <a href="https://shaileshjukaria.netlify.app/" target="_blank"><b>My Portfolio - Click to Visit</b></a><br>
+📫 <a href="mailto:shailesh07jukartia@gmail.com" target="_blank">Reach me through Email</a>
 
-Here are some ideas to get you started:
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50" height="50" alt="Tech Stack"> 💻 Tech Stack & Tools:<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40" alt="Streak"> Streak stats
+Refresh if you're unable to see graphical stats. <a href="https://github.com/shaileshjukaria">Refresh</a>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&show_icon=true&theme=algolia" alt="shaileshjukaria-langs"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shaileshjukaria&theme=algolia" alt="Github streak"/>
+</div>
+
+### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40" alt="Trophy"> Trophies stats
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaileshjukaria&theme=algolia" alt="Github trophy"/>
+</div>
+
+## 🙋‍♂️ Let's Connect
+[![Gmail](https://img.shields.io/badge/-Shailesh%20Jukaria-grey?style=flat&logo=gmail)](mailto:shailesh07jukartia@gmail.com) - Email <br>
+[![Linkedin](https://img.shields.io/badge/-Shailesh%20Jukaria-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-jukaria-1b6998361?utm_source=share_via&utm_content=profile&utm_medium=member_android) - LinkedIn<br>
+[![Github](https://img.shields.io/badge/-Shailesh%20Jukaria-black?style=flat&logo=github)](https://github.com/shaileshjukaria) - GitHub<br>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=netlify)](https://shaileshjukaria.netlify.app/) - Portfolio
+
+<div align="center">
+  <b>I have not come this far only to come this far</b><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Footer quote"/>
+</div>
+<p align="center"> 
+  GitHub Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shaileshjukaria/count.svg" alt="Visitor count"/>
+</p>
