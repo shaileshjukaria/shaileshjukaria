@@ -62,15 +62,9 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- FIXED STREAK -->
-<img src="https://streak-stats.demolab.com?user=shaileshjukaria&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
