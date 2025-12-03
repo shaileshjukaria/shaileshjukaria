@@ -50,13 +50,15 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%231572B6.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40" alt="Streak"> Streak stats
+### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40" alt="Streak"> Streak stats  
 Refresh if you're unable to see graphical stats. <a href="https://github.com/shaileshjukaria">Refresh</a>
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&show_icon=true&theme=algolia" alt="shaileshjukaria-langs"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaileshjukaria&theme=algolia" alt="Github streak"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&show_icons=true&theme=algolia" />
+
+  <img src="https://streak-stats.demolab.com/?user=shaileshjukaria&theme=algolia" alt="GitHub Streak Stats" />
+
 </div>
 
 ### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40" alt="Trophy"> Trophies stats
@@ -74,6 +76,7 @@ Refresh if you're unable to see graphical stats. <a href="https://github.com/sha
   <b>I have not come this far only to come this far</b><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Footer quote"/>
 </div>
+
 <p align="center"> 
   GitHub Visitor count<br>
   <img src="https://profile-counter.glitch.me/shaileshjukaria/count.svg" alt="Visitor count"/>
