@@ -64,11 +64,7 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshjukaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D](https://shaileshjukaria-git-main-shailesh-jukarias-projects.vercel.app))](https://git.io/streak-stats)
 
 </div>
 
