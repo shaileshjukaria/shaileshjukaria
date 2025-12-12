@@ -53,7 +53,7 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F2663A?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile/Scrum-2496ED?style=for-the-badge&logo=sprint&logoColor=white)
@@ -62,13 +62,15 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaileshjukaria&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaileshjukaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaileshjukaria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshjukaria&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -92,5 +94,4 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 ## 🚀 Full-Stack Developer • React • Angular • Node.js • DevOps  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFC6&center=true&vCenter=true&width=900&lines=Clean+Code+%7C+High+Performance+%7C+Scalable+Architecture;Transforming+Ideas+Into+Modern+Web+Applications;Always+Learning+Always+Building+%F0%9F%9A%80" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFC6&center=true&vCenter=true&width=900&lines=Clean+Code+%7C+High+Performance+%7C+Scalable+Architecture;Transforming+Ideas+Into+Modern+Web+Applications;Always+Learning+Always+Building+%F0%9F%9F%A2" />
