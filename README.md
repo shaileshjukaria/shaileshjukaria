@@ -4,7 +4,6 @@
 </h1>
 
 <!-- --------------- MODERN HEADER BANNER ---------------- -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Turning+Ideas+Into+Production+Ready+Solutions" />
 </p>
@@ -29,17 +28,17 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-00A8E1?style=for-the-badge&logo=api&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microgenetics&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-0066FF?style=for-the-badge&logo=databricks&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00A8E1?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-0066FF?style=for-the-badge)
 
 ### 🗄️ Backend & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-404040?style=for-the-badge&logo=databricks&logoColor=white)
-![Authentication](https://img.shields.io/badge/Auth_&_JWT-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Caching](https://img.shields.io/badge/Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-404040?style=for-the-badge)
+![Auth & JWT](https://img.shields.io/badge/Auth_%26_JWT-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 💻 Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -56,15 +55,15 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile/Scrum-2496ED?style=for-the-badge&logo=sprint&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-2496ED?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D](https://shaileshjukaria-git-main-shailesh-jukarias-projects.vercel.app))](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaileshjukaria&theme=tokyonight&hide_border=true&ring=00E5FF&fire=FF9F00&currStreakLabel=00E5FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -88,6 +87,7 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 ---
 
-## 🚀 Full-Stack Developer • React • Angular • Node.js • DevOps  
+## 🚀 Full-Stack Developer • React • Angular • Node.js • DevOps
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00FFC6&center=true&vCenter=true&width=900&lines=Clean+Code+%7C+High+Performance+%7C+Scalable+Architecture;Transforming+Ideas+Into+Modern+Web+Applications;Always+Learning+Always+Building+%F0%9F%9F%A2" />
+</p>
