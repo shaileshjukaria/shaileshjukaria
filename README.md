@@ -67,6 +67,10 @@ I'm a **Full Stack Developer** passionate about designing scalable systems, buil
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/api?user=shaileshjukaria&theme=tokyonight&hide_border=true&v=2" />
+</p>
+
 
 ---
 
